@@ -1,0 +1,10 @@
+{
+  "name": "K . L Sai Sree Portfolio",
+  "description": "An interactive 3D virtual showroom showcasing the portfolio and AI engineering projects of Lakshmi Sree.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
